@@ -1,0 +1,19 @@
+
+/*En CSS, on peut définir la forme du pointeur de la souris avec la propriété cursor.
+Ici lorsque le pointeur de la souris passe sur un élément img, il prend l'aspect d'une main.*/
+
+img {
+    cursor: pointer;
+}
+
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin-left: 35%;
+}
